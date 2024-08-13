@@ -5,3 +5,7 @@ There is now one in 10 startups that the startup will fail
 There is now 1 in 10 meltdowns that you can pressure stall the reactor (HEAVY WIP)
 Coolant Room (HEAVY WIP)
 ----------------------------------------------------------------------------------
+QSML THing V0.1.1 Update Log
+Changes:
+Added Teleport to Coolant Room
+Made the Pumps in the Coolant Room Work
