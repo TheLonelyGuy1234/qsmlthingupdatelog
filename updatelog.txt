@@ -10,3 +10,8 @@ Changes:
 Added Teleport to Coolant Room
 Made the Pumps in the Coolant Room Work
 ---------------------------------------
+QSML Thing V0.1.2
+Changes: 
+Added Screens To the Coolant Room
+Added a Version GUI to keep track of current game version
+---------------------------------------------------------
